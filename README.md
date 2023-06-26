@@ -6,10 +6,15 @@
 
 4. npm install three@0.127.0
 
-5. Now open package.json file under "scripts":  type  "start": "node server.js" 
-  NOTE: If it's not already there
+5. Now open package.json file under "scripts": type "start": "node server.js"
+   NOTE: If it's not already there
 
 6. And finally open your Terminal or Command Prompt on root directroy and type: npm start
 
 7. It will open your default browser and you will able to see the output.# Earth-Three-js
+
 # Earth
+
+### Screenshot
+
+![image](https://3dearth.vercel.app/1.png)
